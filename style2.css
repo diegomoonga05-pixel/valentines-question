@@ -71,7 +71,7 @@ body{
 }
 .heart{
     position:absolute;
-    top:74%;
+    top:81%;
     left:50%;
     width:19px;
     height:19px;
@@ -120,5 +120,6 @@ body{
     border-radius: 10px;
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
 }
+
 
 
